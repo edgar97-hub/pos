@@ -1,0 +1,3 @@
+nombre,codigo,tipo producto,nombre variante,tipo variante,categoria,marca,Barcode symbol,costo producto, precio producto,unidad producto,unidad venta,unidad compra,stock alerta,impuesto Porcentaje,tipo de impuesto,Notas,Almacen,Provedor,cantidad,estado
+POLO2,85958586,Variante,Ropa,S/Rojo,Camisetas,Zara,CODE128,20,85,UNIDAD,UNIDAD,UNIDAD,10,0,EXCLUSIVE,New fashion product,PRINCIPAL,TECHFLUX,100,recibido
+POLO2,85958589,Variante,Ropa,M/Verde,Camisetas,Zara,CODE128,20,85,UNIDAD,UNIDAD,UNIDAD,10,0,EXCLUSIVE,New fashion product,PRINCIPAL,TECHFLUX,100,recibido

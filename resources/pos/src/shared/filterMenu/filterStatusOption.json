@@ -1,0 +1,18 @@
+[
+    {
+        "label": "All",
+        "value": "0"
+    },
+    {
+        "label": "Recibido",
+        "value": 1
+    },
+    {
+        "label": "Pendiente",
+        "value": 2
+    },
+    {
+        "label": "Ordenado",
+        "value": 3
+    }
+]

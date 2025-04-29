@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Todo",
+        "value": "0"
+    },
+    {
+        "label": "Pagado",
+        "value": 1
+    },
+    {
+        "label": "No pagado",
+        "value": 2
+    }
+]
